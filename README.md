@@ -8,7 +8,7 @@ In the My Thumbup csv, there are 3 columns: name (of track), artist, and album. 
 <img width="1230" alt="image" src="https://github.com/minoseah629/spotify/assets/1980068/e0891ada-6dc3-4a7f-ab1c-ea0a25435862">
 
 # Tools 
-python, pandas, spotify web api (attempted to use spotipy, but struggled), dotenv, microsoft iis (only to get authorization code back Spotify API)
+python, pandas, spotify web api (attempted to use spotipy, but struggled), dotenv, microsoft iis (only to get authorization code from back Spotify API)
 
 # Methodology
 
